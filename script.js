@@ -8,7 +8,7 @@ function toggleSubMenu(menuItem) {
          menuContainer.style.paddingBottom = submenu.scrollHeight + 'px';
      } else {
          submenu.style.maxHeight = '0';
-         menuContainer.style.paddingBottom = '20px';  // Prilagodite prema potrebi
+         menuContainer.style.paddingBottom = '20px';  
      }
  }
  
